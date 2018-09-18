@@ -1,4 +1,4 @@
-import { ticks } from 'd3-array'
+import ticks from 'd3-array'
 
 export default class LinearScale {
   constructor() {

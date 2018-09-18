@@ -1,4 +1,4 @@
-import { bisect } from 'd3-array'
+import bisect from 'd3-array'
 
 export default class DiscreteScale {
   constructor() {
